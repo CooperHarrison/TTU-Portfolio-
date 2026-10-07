@@ -1,0 +1,421 @@
+DriverNumber,Abbreviation,TeamName,QualifyingPosition,RacePosition,FP1_BestLap,FP2_BestLap,FP3_BestLap,FP2_LongRunPace,AirTemp,TrackTemp,Humidity,WindSpeed,WindDirection,Circuit,Country,Round,Year
+44,HAM,Mercedes,1.0,2.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+7,RAI,Ferrari,2.0,3.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+5,VET,Ferrari,3.0,1.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+33,VER,Red Bull Racing,4.0,6.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+3,RIC,Red Bull Racing,5.0,4.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+20,MAG,Haas F1 Team,6.0,17.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+8,GRO,Haas F1 Team,7.0,16.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+27,HUL,Renault,8.0,7.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+55,SAI,Renault,9.0,10.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+77,BOT,Mercedes,10.0,8.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+14,ALO,McLaren,11.0,5.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+2,VAN,McLaren,12.0,9.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+11,PER,Force India,13.0,11.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+18,STR,Williams,14.0,14.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+31,OCO,Force India,15.0,12.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+28,HAR,Toro Rosso,16.0,15.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+9,ERI,Sauber,17.0,19.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+16,LEC,Sauber,18.0,13.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+35,SIR,Williams,19.0,20.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+10,GAS,Toro Rosso,20.0,18.0,84.026,83.931,86.067,,,,,,,Australian Grand Prix,Australia,1,2018
+5,VET,Ferrari,1.0,1.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+7,RAI,Ferrari,2.0,18.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+77,BOT,Mercedes,3.0,2.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+44,HAM,Mercedes,4.0,3.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+3,RIC,Red Bull Racing,5.0,20.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+10,GAS,Toro Rosso,6.0,4.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+20,MAG,Haas F1 Team,7.0,5.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+27,HUL,Renault,8.0,6.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+31,OCO,Force India,9.0,10.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+55,SAI,Renault,10.0,11.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+28,HAR,Toro Rosso,11.0,17.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+11,PER,Force India,12.0,16.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+14,ALO,McLaren,13.0,7.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+2,VAN,McLaren,14.0,8.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+33,VER,Red Bull Racing,15.0,19.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+8,GRO,Haas F1 Team,16.0,13.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+9,ERI,Sauber,17.0,9.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+35,SIR,Williams,18.0,15.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+16,LEC,Sauber,19.0,12.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+18,STR,Williams,20.0,14.0,91.06,89.817,89.868,,,,,,,Bahrain Grand Prix,Bahrain,2,2018
+5,VET,Ferrari,1.0,8.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+7,RAI,Ferrari,2.0,3.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+77,BOT,Mercedes,3.0,2.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+44,HAM,Mercedes,4.0,4.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+33,VER,Red Bull Racing,5.0,5.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+3,RIC,Red Bull Racing,6.0,1.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+27,HUL,Renault,7.0,6.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+11,PER,Force India,8.0,12.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+55,SAI,Renault,9.0,9.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+8,GRO,Haas F1 Team,10.0,17.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+20,MAG,Haas F1 Team,11.0,10.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+31,OCO,Force India,12.0,11.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+14,ALO,McLaren,13.0,7.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+2,VAN,McLaren,14.0,13.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+28,HAR,Toro Rosso,15.0,20.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+35,SIR,Williams,16.0,15.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+10,GAS,Toro Rosso,17.0,18.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+18,STR,Williams,18.0,14.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+16,LEC,Sauber,19.0,19.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+9,ERI,Sauber,20.0,16.0,93.999,93.482,93.018,,,,,,,Chinese Grand Prix,China,3,2018
+5,VET,Ferrari,1.0,4.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+44,HAM,Mercedes,2.0,1.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+77,BOT,Mercedes,3.0,14.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+3,RIC,Red Bull Racing,4.0,17.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+33,VER,Red Bull Racing,5.0,16.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+7,RAI,Ferrari,6.0,2.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+31,OCO,Force India,7.0,19.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+11,PER,Force India,8.0,3.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+27,HUL,Renault,9.0,18.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+55,SAI,Renault,10.0,5.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+18,STR,Williams,11.0,8.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+35,SIR,Williams,12.0,20.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+14,ALO,McLaren,13.0,7.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+16,LEC,Sauber,14.0,6.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+20,MAG,Haas F1 Team,15.0,13.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+2,VAN,McLaren,16.0,9.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+10,GAS,Toro Rosso,17.0,12.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+9,ERI,Sauber,18.0,11.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+28,HAR,Toro Rosso,19.0,10.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+8,GRO,Haas F1 Team,20.0,15.0,104.242,102.795,103.091,,,,,,,Azerbaijan Grand Prix,Azerbaijan,4,2018
+44,HAM,Mercedes,1.0,1.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+77,BOT,Mercedes,2.0,2.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+5,VET,Ferrari,3.0,4.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+7,RAI,Ferrari,4.0,17.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+33,VER,Red Bull Racing,5.0,3.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+3,RIC,Red Bull Racing,6.0,5.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+20,MAG,Haas F1 Team,7.0,6.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+14,ALO,McLaren,8.0,8.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+55,SAI,Renault,9.0,7.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+8,GRO,Haas F1 Team,10.0,18.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+2,VAN,McLaren,11.0,15.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+10,GAS,Toro Rosso,12.0,19.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+31,OCO,Force India,13.0,16.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+16,LEC,Sauber,14.0,10.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+11,PER,Force India,15.0,9.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+27,HUL,Renault,16.0,20.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+9,ERI,Sauber,17.0,13.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+35,SIR,Williams,18.0,14.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+18,STR,Williams,19.0,11.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+28,HAR,Toro Rosso,20.0,12.0,78.148,78.259,77.281,,,,,,,Spanish Grand Prix,Spain,5,2018
+3,RIC,Red Bull Racing,1.0,1.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+5,VET,Ferrari,2.0,2.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+44,HAM,Mercedes,3.0,3.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+7,RAI,Ferrari,4.0,4.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+77,BOT,Mercedes,5.0,5.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+31,OCO,Force India,6.0,6.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+14,ALO,McLaren,7.0,20.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+55,SAI,Renault,8.0,10.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+11,PER,Force India,9.0,12.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+10,GAS,Toro Rosso,10.0,7.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+27,HUL,Renault,11.0,8.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+2,VAN,McLaren,12.0,14.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+35,SIR,Williams,13.0,16.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+16,LEC,Sauber,14.0,18.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+8,GRO,Haas F1 Team,15.0,15.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+28,HAR,Toro Rosso,16.0,19.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+9,ERI,Sauber,17.0,11.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+18,STR,Williams,18.0,17.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+20,MAG,Haas F1 Team,19.0,13.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+33,VER,Red Bull Racing,20.0,9.0,72.126,71.841,71.786,,,,,,,Monaco Grand Prix,Monaco,6,2018
+5,VET,Ferrari,1.0,1.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+77,BOT,Mercedes,2.0,2.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+33,VER,Red Bull Racing,3.0,3.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+44,HAM,Mercedes,4.0,5.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+7,RAI,Ferrari,5.0,6.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+3,RIC,Red Bull Racing,6.0,4.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+27,HUL,Renault,7.0,7.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+31,OCO,Force India,8.0,9.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+55,SAI,Renault,9.0,8.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+11,PER,Force India,10.0,14.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+20,MAG,Haas F1 Team,11.0,13.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+28,HAR,Toro Rosso,12.0,19.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+16,LEC,Sauber,13.0,10.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+14,ALO,McLaren,14.0,18.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+2,VAN,McLaren,15.0,16.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+10,GAS,Toro Rosso,16.0,11.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+18,STR,Williams,17.0,20.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+35,SIR,Williams,18.0,17.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+9,ERI,Sauber,19.0,15.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+8,GRO,Haas F1 Team,20.0,12.0,73.302,72.198,71.599,,,,,,,Canadian Grand Prix,Canada,7,2018
+44,HAM,Mercedes,1.0,1.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+77,BOT,Mercedes,2.0,7.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+5,VET,Ferrari,3.0,5.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+33,VER,Red Bull Racing,4.0,2.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+3,RIC,Red Bull Racing,5.0,4.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+7,RAI,Ferrari,6.0,3.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+55,SAI,Renault,7.0,8.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+16,LEC,Sauber,8.0,10.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+20,MAG,Haas F1 Team,9.0,6.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+8,GRO,Haas F1 Team,10.0,11.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+31,OCO,Force India,11.0,19.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+27,HUL,Renault,12.0,9.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+11,PER,Force India,13.0,18.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+10,GAS,Toro Rosso,14.0,20.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+9,ERI,Sauber,15.0,13.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+14,ALO,McLaren,16.0,16.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+28,HAR,Toro Rosso,17.0,14.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+2,VAN,McLaren,18.0,12.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+35,SIR,Williams,19.0,15.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+18,STR,Williams,20.0,17.0,92.231,92.539,93.666,,,,,,,French Grand Prix,France,8,2018
+77,BOT,Mercedes,1.0,19.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+44,HAM,Mercedes,2.0,16.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+5,VET,Ferrari,3.0,3.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+7,RAI,Ferrari,4.0,2.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+33,VER,Red Bull Racing,5.0,1.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+8,GRO,Haas F1 Team,6.0,4.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+3,RIC,Red Bull Racing,7.0,18.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+20,MAG,Haas F1 Team,8.0,5.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+55,SAI,Renault,9.0,12.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+27,HUL,Renault,10.0,20.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+31,OCO,Force India,11.0,6.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+10,GAS,Toro Rosso,12.0,11.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+16,LEC,Sauber,13.0,9.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+14,ALO,McLaren,14.0,8.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+18,STR,Williams,15.0,14.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+2,VAN,McLaren,16.0,15.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+11,PER,Force India,17.0,7.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+35,SIR,Williams,18.0,13.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+28,HAR,Toro Rosso,19.0,17.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+9,ERI,Sauber,20.0,10.0,64.839,64.579,64.07,,,,,,,Austrian Grand Prix,Austria,9,2018
+44,HAM,Mercedes,1.0,2.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+5,VET,Ferrari,2.0,1.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+7,RAI,Ferrari,3.0,3.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+77,BOT,Mercedes,4.0,4.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+33,VER,Red Bull Racing,5.0,15.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+3,RIC,Red Bull Racing,6.0,5.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+20,MAG,Haas F1 Team,7.0,9.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+8,GRO,Haas F1 Team,8.0,16.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+16,LEC,Sauber,9.0,19.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+31,OCO,Force India,10.0,7.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+27,HUL,Renault,11.0,6.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+11,PER,Force India,12.0,10.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+14,ALO,McLaren,13.0,8.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+10,GAS,Toro Rosso,14.0,13.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+9,ERI,Sauber,15.0,18.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+55,SAI,Renault,16.0,17.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+2,VAN,McLaren,17.0,11.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+35,SIR,Williams,18.0,14.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+18,STR,Williams,19.0,12.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+28,HAR,Toro Rosso,20.0,20.0,87.487,87.552,86.722,,,,,,,British Grand Prix,Great Britain,10,2018
+5,VET,Ferrari,1.0,18.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+77,BOT,Mercedes,2.0,2.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+7,RAI,Ferrari,3.0,3.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+33,VER,Red Bull Racing,4.0,4.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+20,MAG,Haas F1 Team,5.0,11.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+8,GRO,Haas F1 Team,6.0,6.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+27,HUL,Renault,7.0,5.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+55,SAI,Renault,8.0,12.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+16,LEC,Sauber,9.0,15.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+11,PER,Force India,10.0,7.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+14,ALO,McLaren,11.0,16.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+35,SIR,Williams,12.0,19.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+9,ERI,Sauber,13.0,9.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+44,HAM,Mercedes,14.0,1.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+3,RIC,Red Bull Racing,15.0,20.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+31,OCO,Force India,16.0,8.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+10,GAS,Toro Rosso,17.0,14.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+28,HAR,Toro Rosso,18.0,10.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+18,STR,Williams,19.0,17.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+2,VAN,McLaren,20.0,13.0,73.525,73.085,94.577,,,,,,,German Grand Prix,Germany,11,2018
+44,HAM,Mercedes,1.0,1.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+77,BOT,Mercedes,2.0,5.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+7,RAI,Ferrari,3.0,3.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+5,VET,Ferrari,4.0,2.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+55,SAI,Renault,5.0,9.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+10,GAS,Toro Rosso,6.0,6.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+33,VER,Red Bull Racing,7.0,19.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+28,HAR,Toro Rosso,8.0,11.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+20,MAG,Haas F1 Team,9.0,7.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+8,GRO,Haas F1 Team,10.0,10.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+14,ALO,McLaren,11.0,8.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+3,RIC,Red Bull Racing,12.0,4.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+27,HUL,Renault,13.0,12.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+9,ERI,Sauber,14.0,15.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+18,STR,Williams,15.0,17.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+2,VAN,McLaren,16.0,18.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+16,LEC,Sauber,17.0,20.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+31,OCO,Force India,18.0,13.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+11,PER,Force India,19.0,14.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+35,SIR,Williams,20.0,16.0,77.613,76.834,76.17,,,,,,,Hungarian Grand Prix,Hungary,12,2018
+44,HAM,Mercedes,1.0,2.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+5,VET,Ferrari,2.0,1.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+31,OCO,Racing Point,3.0,6.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+11,PER,Racing Point,4.0,5.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+8,GRO,Haas F1 Team,5.0,7.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+7,RAI,Ferrari,6.0,17.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+33,VER,Red Bull Racing,7.0,3.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+3,RIC,Red Bull Racing,8.0,16.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+20,MAG,Haas F1 Team,9.0,8.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+77,BOT,Mercedes,10.0,4.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+10,GAS,Toro Rosso,11.0,9.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+28,HAR,Toro Rosso,12.0,14.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+16,LEC,Sauber,13.0,18.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+9,ERI,Sauber,14.0,10.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+27,HUL,Renault,15.0,20.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+55,SAI,Renault,16.0,11.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+14,ALO,McLaren,17.0,19.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+35,SIR,Williams,18.0,12.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+18,STR,Williams,19.0,13.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+2,VAN,McLaren,20.0,15.0,104.358,103.355,102.661,,,,,,,Belgian Grand Prix,Belgium,13,2018
+7,RAI,Ferrari,1.0,2.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+5,VET,Ferrari,2.0,4.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+44,HAM,Mercedes,3.0,1.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+77,BOT,Mercedes,4.0,3.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+33,VER,Red Bull Racing,5.0,5.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+8,GRO,Haas F1 Team,6.0,20.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+55,SAI,Renault,7.0,8.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+31,OCO,Racing Point,8.0,6.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+10,GAS,Toro Rosso,9.0,14.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+18,STR,Williams,10.0,9.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+20,MAG,Haas F1 Team,11.0,16.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+35,SIR,Williams,12.0,10.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+14,ALO,McLaren,13.0,18.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+27,HUL,Renault,14.0,13.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+3,RIC,Red Bull Racing,15.0,17.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+11,PER,Racing Point,16.0,7.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+16,LEC,Sauber,17.0,11.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+28,HAR,Toro Rosso,18.0,19.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+9,ERI,Sauber,19.0,15.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+2,VAN,McLaren,20.0,12.0,94.0,81.105,80.509,,,,,,,Italian Grand Prix,Italy,14,2018
+44,HAM,Mercedes,1.0,1.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+33,VER,Red Bull Racing,2.0,2.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+5,VET,Ferrari,3.0,3.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+77,BOT,Mercedes,4.0,4.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+7,RAI,Ferrari,5.0,5.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+3,RIC,Red Bull Racing,6.0,6.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+11,PER,Racing Point,7.0,16.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+8,GRO,Haas F1 Team,8.0,15.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+31,OCO,Racing Point,9.0,20.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+27,HUL,Renault,10.0,10.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+14,ALO,McLaren,11.0,7.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+55,SAI,Renault,12.0,8.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+16,LEC,Sauber,13.0,9.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+9,ERI,Sauber,14.0,11.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+10,GAS,Toro Rosso,15.0,13.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+20,MAG,Haas F1 Team,16.0,18.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+28,HAR,Toro Rosso,17.0,17.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+2,VAN,McLaren,18.0,12.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+35,SIR,Williams,19.0,19.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+18,STR,Williams,20.0,14.0,99.711,98.699,98.054,,,,,,,Singapore Grand Prix,Singapore,15,2018
+77,BOT,Mercedes,1.0,2.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+44,HAM,Mercedes,2.0,1.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+5,VET,Ferrari,3.0,3.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+7,RAI,Ferrari,4.0,4.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+20,MAG,Haas F1 Team,5.0,8.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+31,OCO,Racing Point,6.0,9.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+16,LEC,Sauber,7.0,7.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+11,PER,Racing Point,8.0,10.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+8,GRO,Haas F1 Team,9.0,11.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+9,ERI,Sauber,10.0,13.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+33,VER,Red Bull Racing,11.0,5.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+3,RIC,Red Bull Racing,12.0,6.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+10,GAS,Toro Rosso,13.0,19.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+55,SAI,Renault,14.0,17.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+27,HUL,Renault,15.0,12.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+28,HAR,Toro Rosso,16.0,20.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+14,ALO,McLaren,17.0,14.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+35,SIR,Williams,18.0,18.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+2,VAN,McLaren,19.0,16.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+18,STR,Williams,20.0,15.0,94.488,93.385,93.067,,,,,,,Russian Grand Prix,Russia,16,2018
+44,HAM,Mercedes,1.0,1.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+77,BOT,Mercedes,2.0,2.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+33,VER,Red Bull Racing,3.0,3.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+7,RAI,Ferrari,4.0,5.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+8,GRO,Haas F1 Team,5.0,8.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+28,HAR,Toro Rosso,6.0,13.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+10,GAS,Toro Rosso,7.0,11.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+31,OCO,Racing Point,8.0,9.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+5,VET,Ferrari,9.0,6.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+11,PER,Racing Point,10.0,7.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+16,LEC,Sauber,11.0,18.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+20,MAG,Haas F1 Team,12.0,20.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+55,SAI,Renault,13.0,10.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+18,STR,Williams,14.0,17.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+3,RIC,Red Bull Racing,15.0,4.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+27,HUL,Renault,16.0,19.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+35,SIR,Williams,17.0,16.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+14,ALO,McLaren,18.0,14.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+2,VAN,McLaren,19.0,15.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+9,ERI,Sauber,20.0,12.0,88.691,88.217,89.599,,,,,,,Japanese Grand Prix,Japan,17,2018
+44,HAM,Mercedes,1.0,3.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+5,VET,Ferrari,2.0,4.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+7,RAI,Ferrari,3.0,1.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+77,BOT,Mercedes,4.0,5.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+3,RIC,Red Bull Racing,5.0,16.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+31,OCO,Racing Point,6.0,19.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+27,HUL,Renault,7.0,6.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+8,GRO,Haas F1 Team,8.0,17.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+16,LEC,Sauber,9.0,15.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+11,PER,Racing Point,10.0,8.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+55,SAI,Renault,11.0,7.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+20,MAG,Haas F1 Team,12.0,20.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+10,GAS,Toro Rosso,13.0,12.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+28,HAR,Toro Rosso,14.0,9.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+33,VER,Red Bull Racing,15.0,2.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+14,ALO,McLaren,16.0,18.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+35,SIR,Williams,17.0,13.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+18,STR,Williams,18.0,14.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+9,ERI,Sauber,19.0,10.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+2,VAN,McLaren,20.0,11.0,107.502,108.716,93.797,,,,,,,United States Grand Prix,United States,18,2018
+3,RIC,Red Bull Racing,1.0,17.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+33,VER,Red Bull Racing,2.0,1.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+44,HAM,Mercedes,3.0,4.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+5,VET,Ferrari,4.0,2.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+77,BOT,Mercedes,5.0,5.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+7,RAI,Ferrari,6.0,3.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+27,HUL,Renault,7.0,6.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+55,SAI,Renault,8.0,19.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+16,LEC,Sauber,9.0,7.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+9,ERI,Sauber,10.0,9.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+31,OCO,Racing Point,11.0,11.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+14,ALO,McLaren,12.0,20.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+11,PER,Racing Point,13.0,18.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+28,HAR,Toro Rosso,14.0,14.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+10,GAS,Toro Rosso,15.0,10.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+8,GRO,Haas F1 Team,16.0,16.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+2,VAN,McLaren,17.0,8.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+20,MAG,Haas F1 Team,18.0,15.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+18,STR,Williams,19.0,12.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+35,SIR,Williams,20.0,13.0,76.656,76.72,76.284,,,,,,,Mexican Grand Prix,Mexico,19,2018
+44,HAM,Mercedes,1.0,1.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+5,VET,Ferrari,2.0,6.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+77,BOT,Mercedes,3.0,5.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+7,RAI,Ferrari,4.0,3.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+33,VER,Red Bull Racing,5.0,2.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+3,RIC,Red Bull Racing,6.0,4.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+9,ERI,Sauber,7.0,20.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+16,LEC,Sauber,8.0,7.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+8,GRO,Haas F1 Team,9.0,8.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+10,GAS,Toro Rosso,10.0,13.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+20,MAG,Haas F1 Team,11.0,9.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+11,PER,Racing Point,12.0,10.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+31,OCO,Racing Point,13.0,15.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+27,HUL,Renault,14.0,19.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+35,SIR,Williams,15.0,16.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+55,SAI,Renault,16.0,12.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+28,HAR,Toro Rosso,17.0,11.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+14,ALO,McLaren,18.0,17.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+18,STR,Williams,19.0,18.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+2,VAN,McLaren,20.0,14.0,69.011,68.846,67.948,,,,,,,Brazilian Grand Prix,Brazil,20,2018
+44,HAM,Mercedes,1.0,1.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018
+77,BOT,Mercedes,2.0,5.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018
+5,VET,Ferrari,3.0,2.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018
+7,RAI,Ferrari,4.0,19.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018
+3,RIC,Red Bull Racing,5.0,4.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018
+33,VER,Red Bull Racing,6.0,3.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018
+8,GRO,Haas F1 Team,7.0,9.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018
+16,LEC,Sauber,8.0,7.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018
+31,OCO,Racing Point,9.0,17.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018
+27,HUL,Renault,10.0,20.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018
+55,SAI,Renault,11.0,6.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018
+9,ERI,Sauber,12.0,18.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018
+20,MAG,Haas F1 Team,13.0,10.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018
+11,PER,Racing Point,14.0,8.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018
+14,ALO,McLaren,15.0,11.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018
+28,HAR,Toro Rosso,16.0,12.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018
+10,GAS,Toro Rosso,17.0,16.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018
+2,VAN,McLaren,18.0,14.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018
+35,SIR,Williams,19.0,15.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018
+18,STR,Williams,20.0,13.0,98.491,97.236,97.176,,,,,,,Abu Dhabi Grand Prix,United Arab Emirates,21,2018

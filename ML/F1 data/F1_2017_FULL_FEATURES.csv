@@ -1,0 +1,399 @@
+DriverNumber,Abbreviation,TeamName,QualifyingPosition,RacePosition,FP1_BestLap,FP2_BestLap,FP3_BestLap,FP2_LongRunPace,AirTemp,TrackTemp,Humidity,WindSpeed,WindDirection,Circuit,Country,Round,Year
+44,HAM,Mercedes,1.0,2.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+5,VET,Ferrari,2.0,1.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+77,BOT,Mercedes,3.0,3.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+7,RAI,Ferrari,4.0,4.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+33,VER,Red Bull,5.0,5.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+8,GRO,Haas F1 Team,6.0,20.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+19,MAS,Williams,7.0,6.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+55,SAI,Toro Rosso,8.0,8.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+26,KVY,Toro Rosso,9.0,9.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+3,RIC,Red Bull,10.0,17.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+11,PER,Force India,11.0,7.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+27,HUL,Renault,12.0,11.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+14,ALO,McLaren,13.0,14.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+31,OCO,Force India,14.0,10.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+9,ERI,Sauber,15.0,18.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+36,GIO,Sauber,16.0,12.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+20,MAG,Haas F1 Team,17.0,15.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+2,VAN,McLaren,18.0,13.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+18,STR,Williams,19.0,16.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+30,PAL,Renault,20.0,19.0,,,,,,,,,,Australian Grand Prix,Australia,1,2017
+44,HAM,Mercedes,1.0,1.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+5,VET,Ferrari,2.0,2.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+77,BOT,Mercedes,3.0,6.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+7,RAI,Ferrari,4.0,5.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+3,RIC,Red Bull,5.0,4.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+19,MAS,Williams,6.0,14.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+27,HUL,Renault,7.0,12.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+11,PER,Force India,8.0,9.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+26,KVY,Toro Rosso,9.0,17.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+18,STR,Williams,10.0,20.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+55,SAI,Toro Rosso,11.0,7.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+20,MAG,Haas F1 Team,12.0,8.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+14,ALO,McLaren,13.0,16.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+9,ERI,Sauber,14.0,15.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+36,GIO,Sauber,15.0,19.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+2,VAN,McLaren,16.0,18.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+8,GRO,Haas F1 Team,17.0,11.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+30,PAL,Renault,18.0,13.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+33,VER,Red Bull,19.0,3.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+31,OCO,Force India,20.0,10.0,,,,,,,,,,Chinese Grand Prix,China,2,2017
+77,BOT,Mercedes,1.0,3.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+44,HAM,Mercedes,2.0,2.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+5,VET,Ferrari,3.0,1.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+3,RIC,Red Bull,4.0,5.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+7,RAI,Ferrari,5.0,4.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+33,VER,Red Bull,6.0,18.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+27,HUL,Renault,7.0,9.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+19,MAS,Williams,8.0,6.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+8,GRO,Haas F1 Team,9.0,8.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+30,PAL,Renault,10.0,13.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+26,KVY,Toro Rosso,11.0,12.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+18,STR,Williams,12.0,17.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+94,WEH,Sauber,13.0,11.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+31,OCO,Force India,14.0,10.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+14,ALO,McLaren,15.0,14.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+55,SAI,Toro Rosso,16.0,16.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+2,VAN,McLaren,17.0,20.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+11,PER,Force India,18.0,7.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+9,ERI,Sauber,19.0,15.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+20,MAG,Haas F1 Team,20.0,19.0,,,,,,,,,,Bahrain Grand Prix,Bahrain,3,2017
+5,VET,Ferrari,1.0,2.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+7,RAI,Ferrari,2.0,3.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+77,BOT,Mercedes,3.0,1.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+44,HAM,Mercedes,4.0,4.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+3,RIC,Red Bull,5.0,17.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+19,MAS,Williams,6.0,9.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+33,VER,Red Bull,7.0,5.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+27,HUL,Renault,8.0,8.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+11,PER,Force India,9.0,6.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+31,OCO,Force India,10.0,7.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+55,SAI,Toro Rosso,11.0,10.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+18,STR,Williams,12.0,11.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+26,KVY,Toro Rosso,13.0,12.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+20,MAG,Haas F1 Team,14.0,13.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+14,ALO,McLaren,15.0,20.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+30,PAL,Renault,16.0,18.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+2,VAN,McLaren,17.0,14.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+94,WEH,Sauber,18.0,16.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+9,ERI,Sauber,19.0,15.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+8,GRO,Haas F1 Team,20.0,19.0,,,,,,,,,,Russian Grand Prix,Russia,4,2017
+44,HAM,Mercedes,1.0,1.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+5,VET,Ferrari,2.0,2.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+77,BOT,Mercedes,3.0,17.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+7,RAI,Ferrari,4.0,20.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+33,VER,Red Bull,5.0,19.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+3,RIC,Red Bull,6.0,3.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+14,ALO,McLaren,7.0,12.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+11,PER,Force India,8.0,4.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+19,MAS,Williams,9.0,13.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+31,OCO,Force India,10.0,5.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+20,MAG,Haas F1 Team,11.0,14.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+55,SAI,Toro Rosso,12.0,7.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+27,HUL,Renault,13.0,6.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+8,GRO,Haas F1 Team,14.0,10.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+94,WEH,Sauber,15.0,8.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+9,ERI,Sauber,16.0,11.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+30,PAL,Renault,17.0,15.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+18,STR,Williams,18.0,16.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+2,VAN,McLaren,19.0,18.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+26,KVY,Toro Rosso,20.0,9.0,,,,,,,,,,Spanish Grand Prix,Spain,5,2017
+7,RAI,Ferrari,1.0,2.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+5,VET,Ferrari,2.0,1.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+77,BOT,Mercedes,3.0,4.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+33,VER,Red Bull,4.0,5.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+3,RIC,Red Bull,5.0,3.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+55,SAI,Toro Rosso,6.0,6.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+11,PER,Force India,7.0,13.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+8,GRO,Haas F1 Team,8.0,8.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+22,BUT,McLaren,9.0,18.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+2,VAN,McLaren,10.0,16.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+26,KVY,Toro Rosso,11.0,14.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+27,HUL,Renault,12.0,20.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+20,MAG,Haas F1 Team,13.0,10.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+44,HAM,Mercedes,14.0,7.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+19,MAS,Williams,15.0,9.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+31,OCO,Force India,16.0,12.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+30,PAL,Renault,17.0,11.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+18,STR,Williams,18.0,15.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+94,WEH,Sauber,19.0,19.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+9,ERI,Sauber,20.0,17.0,,,,,,,,,,Monaco Grand Prix,Monaco,6,2017
+44,HAM,Mercedes,1.0,1.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+5,VET,Ferrari,2.0,4.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+77,BOT,Mercedes,3.0,2.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+7,RAI,Ferrari,4.0,7.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+33,VER,Red Bull,5.0,18.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+3,RIC,Red Bull,6.0,3.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+19,MAS,Williams,7.0,19.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+11,PER,Force India,8.0,5.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+31,OCO,Force India,9.0,6.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+27,HUL,Renault,10.0,8.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+26,KVY,Toro Rosso,11.0,17.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+14,ALO,McLaren,12.0,16.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+55,SAI,Toro Rosso,13.0,20.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+8,GRO,Haas F1 Team,14.0,10.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+30,PAL,Renault,15.0,11.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+2,VAN,McLaren,16.0,14.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+18,STR,Williams,17.0,9.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+20,MAG,Haas F1 Team,18.0,12.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+9,ERI,Sauber,19.0,13.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+94,WEH,Sauber,20.0,15.0,,,,,,,,,,Canadian Grand Prix,Canada,7,2017
+44,HAM,Mercedes,1.0,5.0,,,,,,,,,,Azerbaijan Grand Prix,Azerbaijan,8,2017
+77,BOT,Mercedes,2.0,2.0,,,,,,,,,,Azerbaijan Grand Prix,Azerbaijan,8,2017
+7,RAI,Ferrari,3.0,14.0,,,,,,,,,,Azerbaijan Grand Prix,Azerbaijan,8,2017
+5,VET,Ferrari,4.0,4.0,,,,,,,,,,Azerbaijan Grand Prix,Azerbaijan,8,2017
+33,VER,Red Bull,5.0,18.0,,,,,,,,,,Azerbaijan Grand Prix,Azerbaijan,8,2017
+11,PER,Force India,6.0,15.0,,,,,,,,,,Azerbaijan Grand Prix,Azerbaijan,8,2017
+31,OCO,Force India,7.0,6.0,,,,,,,,,,Azerbaijan Grand Prix,Azerbaijan,8,2017
+18,STR,Williams,8.0,3.0,,,,,,,,,,Azerbaijan Grand Prix,Azerbaijan,8,2017
+19,MAS,Williams,9.0,16.0,,,,,,,,,,Azerbaijan Grand Prix,Azerbaijan,8,2017
+3,RIC,Red Bull,10.0,1.0,,,,,,,,,,Azerbaijan Grand Prix,Azerbaijan,8,2017
+26,KVY,Toro Rosso,11.0,19.0,,,,,,,,,,Azerbaijan Grand Prix,Azerbaijan,8,2017
+55,SAI,Toro Rosso,12.0,8.0,,,,,,,,,,Azerbaijan Grand Prix,Azerbaijan,8,2017
+20,MAG,Haas F1 Team,13.0,7.0,,,,,,,,,,Azerbaijan Grand Prix,Azerbaijan,8,2017
+27,HUL,Renault,14.0,17.0,,,,,,,,,,Azerbaijan Grand Prix,Azerbaijan,8,2017
+94,WEH,Sauber,15.0,10.0,,,,,,,,,,Azerbaijan Grand Prix,Azerbaijan,8,2017
+14,ALO,McLaren,16.0,9.0,,,,,,,,,,Azerbaijan Grand Prix,Azerbaijan,8,2017
+8,GRO,Haas F1 Team,17.0,13.0,,,,,,,,,,Azerbaijan Grand Prix,Azerbaijan,8,2017
+9,ERI,Sauber,18.0,11.0,,,,,,,,,,Azerbaijan Grand Prix,Azerbaijan,8,2017
+2,VAN,McLaren,19.0,12.0,,,,,,,,,,Azerbaijan Grand Prix,Azerbaijan,8,2017
+77,BOT,Mercedes,1.0,1.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+5,VET,Ferrari,2.0,2.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+44,HAM,Mercedes,3.0,4.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+7,RAI,Ferrari,4.0,5.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+3,RIC,Red Bull,5.0,3.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+33,VER,Red Bull,6.0,20.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+8,GRO,Haas F1 Team,7.0,6.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+11,PER,Force India,8.0,7.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+31,OCO,Force India,9.0,8.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+55,SAI,Toro Rosso,10.0,17.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+27,HUL,Renault,11.0,13.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+14,ALO,McLaren,12.0,19.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+2,VAN,McLaren,13.0,12.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+26,KVY,Toro Rosso,14.0,16.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+20,MAG,Haas F1 Team,15.0,18.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+30,PAL,Renault,16.0,11.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+19,MAS,Williams,17.0,9.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+18,STR,Williams,18.0,10.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+9,ERI,Sauber,19.0,15.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+94,WEH,Sauber,20.0,14.0,,,,,,,,,,Austrian Grand Prix,Austria,9,2017
+44,HAM,Mercedes,1.0,1.0,,,,,,,,,,British Grand Prix,UK,10,2017
+7,RAI,Ferrari,2.0,3.0,,,,,,,,,,British Grand Prix,UK,10,2017
+5,VET,Ferrari,3.0,7.0,,,,,,,,,,British Grand Prix,UK,10,2017
+77,BOT,Mercedes,4.0,2.0,,,,,,,,,,British Grand Prix,UK,10,2017
+33,VER,Red Bull,5.0,4.0,,,,,,,,,,British Grand Prix,UK,10,2017
+27,HUL,Renault,6.0,6.0,,,,,,,,,,British Grand Prix,UK,10,2017
+11,PER,Force India,7.0,9.0,,,,,,,,,,British Grand Prix,UK,10,2017
+31,OCO,Force India,8.0,8.0,,,,,,,,,,British Grand Prix,UK,10,2017
+2,VAN,McLaren,9.0,11.0,,,,,,,,,,British Grand Prix,UK,10,2017
+8,GRO,Haas F1 Team,10.0,13.0,,,,,,,,,,British Grand Prix,UK,10,2017
+30,PAL,Renault,11.0,20.0,,,,,,,,,,British Grand Prix,UK,10,2017
+26,KVY,Toro Rosso,12.0,15.0,,,,,,,,,,British Grand Prix,UK,10,2017
+14,ALO,McLaren,13.0,18.0,,,,,,,,,,British Grand Prix,UK,10,2017
+55,SAI,Toro Rosso,14.0,19.0,,,,,,,,,,British Grand Prix,UK,10,2017
+19,MAS,Williams,15.0,10.0,,,,,,,,,,British Grand Prix,UK,10,2017
+18,STR,Williams,16.0,16.0,,,,,,,,,,British Grand Prix,UK,10,2017
+20,MAG,Haas F1 Team,17.0,12.0,,,,,,,,,,British Grand Prix,UK,10,2017
+94,WEH,Sauber,18.0,17.0,,,,,,,,,,British Grand Prix,UK,10,2017
+9,ERI,Sauber,19.0,14.0,,,,,,,,,,British Grand Prix,UK,10,2017
+3,RIC,Red Bull,20.0,5.0,,,,,,,,,,British Grand Prix,UK,10,2017
+5,VET,Ferrari,1.0,1.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+7,RAI,Ferrari,2.0,2.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+77,BOT,Mercedes,3.0,3.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+44,HAM,Mercedes,4.0,4.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+33,VER,Red Bull,5.0,5.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+3,RIC,Red Bull,6.0,20.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+27,HUL,Renault,7.0,17.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+14,ALO,McLaren,8.0,6.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+2,VAN,McLaren,9.0,10.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+55,SAI,Toro Rosso,10.0,7.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+30,PAL,Renault,11.0,12.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+31,OCO,Force India,12.0,9.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+26,KVY,Toro Rosso,13.0,11.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+11,PER,Force India,14.0,8.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+8,GRO,Haas F1 Team,15.0,19.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+20,MAG,Haas F1 Team,16.0,13.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+18,STR,Williams,17.0,14.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+94,WEH,Sauber,18.0,15.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+40,DIR,Williams,19.0,18.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+9,ERI,Sauber,20.0,16.0,,,,,,,,,,Hungarian Grand Prix,Hungary,11,2017
+44,HAM,Mercedes,1.0,1.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+5,VET,Ferrari,2.0,2.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+77,BOT,Mercedes,3.0,5.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+7,RAI,Ferrari,4.0,4.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+33,VER,Red Bull,5.0,19.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+3,RIC,Red Bull,6.0,3.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+27,HUL,Renault,7.0,6.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+11,PER,Force India,8.0,17.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+31,OCO,Force India,9.0,9.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+30,PAL,Renault,10.0,13.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+14,ALO,McLaren,11.0,18.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+8,GRO,Haas F1 Team,12.0,7.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+20,MAG,Haas F1 Team,13.0,15.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+55,SAI,Toro Rosso,14.0,10.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+2,VAN,McLaren,15.0,14.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+19,MAS,Williams,16.0,8.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+26,KVY,Toro Rosso,17.0,12.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+18,STR,Williams,18.0,11.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+9,ERI,Sauber,19.0,16.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+94,WEH,Sauber,20.0,20.0,,,,,,,,,,Belgian Grand Prix,Belgium,12,2017
+44,HAM,Mercedes,1.0,1.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+33,VER,Red Bull,2.0,10.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+3,RIC,Red Bull,3.0,4.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+18,STR,Williams,4.0,7.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+31,OCO,Force India,5.0,6.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+77,BOT,Mercedes,6.0,2.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+7,RAI,Ferrari,7.0,5.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+5,VET,Ferrari,8.0,3.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+19,MAS,Williams,9.0,8.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+2,VAN,McLaren,10.0,19.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+11,PER,Force India,11.0,9.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+27,HUL,Renault,12.0,13.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+14,ALO,McLaren,13.0,17.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+26,KVY,Toro Rosso,14.0,12.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+55,SAI,Toro Rosso,15.0,14.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+20,MAG,Haas F1 Team,16.0,11.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+30,PAL,Renault,17.0,20.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+9,ERI,Sauber,18.0,18.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+94,WEH,Sauber,19.0,16.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+8,GRO,Haas F1 Team,20.0,15.0,,,,,,,,,,Italian Grand Prix,Italy,13,2017
+5,VET,Ferrari,1.0,18.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+33,VER,Red Bull,2.0,19.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+3,RIC,Red Bull,3.0,2.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+7,RAI,Ferrari,4.0,20.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+44,HAM,Mercedes,5.0,1.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+77,BOT,Mercedes,6.0,3.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+27,HUL,Renault,7.0,14.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+14,ALO,McLaren,8.0,17.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+2,VAN,McLaren,9.0,7.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+55,SAI,Toro Rosso,10.0,4.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+30,PAL,Renault,11.0,6.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+11,PER,Force India,12.0,5.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+26,KVY,Toro Rosso,13.0,16.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+31,OCO,Force India,14.0,10.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+8,GRO,Haas F1 Team,15.0,9.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+20,MAG,Haas F1 Team,16.0,13.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+19,MAS,Williams,17.0,11.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+18,STR,Williams,18.0,8.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+94,WEH,Sauber,19.0,12.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+9,ERI,Sauber,20.0,15.0,,,,,,,,,,Singapore Grand Prix,Singapore,14,2017
+44,HAM,Mercedes,1.0,2.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+7,RAI,Ferrari,2.0,20.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+33,VER,Red Bull,3.0,1.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+3,RIC,Red Bull,4.0,3.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+77,BOT,Mercedes,5.0,5.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+31,OCO,Force India,6.0,10.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+2,VAN,McLaren,7.0,7.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+27,HUL,Renault,8.0,16.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+11,PER,Force India,9.0,6.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+14,ALO,McLaren,10.0,11.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+19,MAS,Williams,11.0,9.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+30,PAL,Renault,12.0,15.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+18,STR,Williams,13.0,8.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+55,SAI,Toro Rosso,14.0,19.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+10,GAS,Toro Rosso,15.0,14.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+8,GRO,Haas F1 Team,16.0,13.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+20,MAG,Haas F1 Team,17.0,12.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+94,WEH,Sauber,18.0,17.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+9,ERI,Sauber,19.0,18.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+5,VET,Ferrari,20.0,4.0,,,,,,,,,,Malaysian Grand Prix,Malaysia,15,2017
+44,HAM,Mercedes,1.0,1.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+77,BOT,Mercedes,2.0,4.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+5,VET,Ferrari,3.0,19.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+3,RIC,Red Bull,4.0,3.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+33,VER,Red Bull,5.0,2.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+7,RAI,Ferrari,6.0,5.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+31,OCO,Force India,7.0,6.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+11,PER,Force India,8.0,7.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+19,MAS,Williams,9.0,10.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+14,ALO,McLaren,10.0,11.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+2,VAN,McLaren,11.0,14.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+27,HUL,Renault,12.0,17.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+20,MAG,Haas F1 Team,13.0,8.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+30,PAL,Renault,14.0,12.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+55,SAI,Toro Rosso,15.0,20.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+8,GRO,Haas F1 Team,16.0,9.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+10,GAS,Toro Rosso,17.0,13.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+18,STR,Williams,18.0,16.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+9,ERI,Sauber,19.0,18.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+94,WEH,Sauber,20.0,15.0,,,,,,,,,,Japanese Grand Prix,Japan,16,2017
+44,HAM,Mercedes,1.0,1.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+5,VET,Ferrari,2.0,2.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+77,BOT,Mercedes,3.0,5.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+3,RIC,Red Bull,4.0,18.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+7,RAI,Ferrari,5.0,3.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+33,VER,Red Bull,6.0,4.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+31,OCO,Force India,7.0,6.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+55,SAI,Renault,8.0,7.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+14,ALO,McLaren,9.0,17.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+11,PER,Force India,10.0,8.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+19,MAS,Williams,11.0,9.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+26,KVY,Toro Rosso,12.0,10.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+2,VAN,McLaren,13.0,12.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+8,GRO,Haas F1 Team,14.0,14.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+27,HUL,Renault,15.0,20.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+9,ERI,Sauber,16.0,15.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+18,STR,Williams,17.0,11.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+39,HAR,Toro Rosso,18.0,13.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+94,WEH,Sauber,19.0,19.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+20,MAG,Haas F1 Team,20.0,16.0,,,,,,,,,,United States Grand Prix,USA,17,2017
+5,VET,Ferrari,1.0,4.0,,,,,,,,,,Mexican Grand Prix,Mexico,18,2017
+33,VER,Red Bull,2.0,1.0,,,,,,,,,,Mexican Grand Prix,Mexico,18,2017
+44,HAM,Mercedes,3.0,9.0,,,,,,,,,,Mexican Grand Prix,Mexico,18,2017
+77,BOT,Mercedes,4.0,2.0,,,,,,,,,,Mexican Grand Prix,Mexico,18,2017
+7,RAI,Ferrari,5.0,3.0,,,,,,,,,,Mexican Grand Prix,Mexico,18,2017
+31,OCO,Force India,6.0,5.0,,,,,,,,,,Mexican Grand Prix,Mexico,18,2017
+3,RIC,Red Bull,7.0,20.0,,,,,,,,,,Mexican Grand Prix,Mexico,18,2017
+27,HUL,Renault,8.0,19.0,,,,,,,,,,Mexican Grand Prix,Mexico,18,2017
+55,SAI,Renault,9.0,16.0,,,,,,,,,,Mexican Grand Prix,Mexico,18,2017
+11,PER,Force India,10.0,7.0,,,,,,,,,,Mexican Grand Prix,Mexico,18,2017
+19,MAS,Williams,11.0,11.0,,,,,,,,,,Mexican Grand Prix,Mexico,18,2017
+18,STR,Williams,12.0,6.0,,,,,,,,,,Mexican Grand Prix,Mexico,18,2017
+28,HAR,Toro Rosso,13.0,18.0,,,,,,,,,,Mexican Grand Prix,Mexico,18,2017
+14,ALO,McLaren,14.0,10.0,,,,,,,,,,Mexican Grand Prix,Mexico,18,2017
+2,VAN,McLaren,15.0,12.0,,,,,,,,,,Mexican Grand Prix,Mexico,18,2017
+9,ERI,Sauber,16.0,17.0,,,,,,,,,,Mexican Grand Prix,Mexico,18,2017
+94,WEH,Sauber,17.0,14.0,,,,,,,,,,Mexican Grand Prix,Mexico,18,2017
+20,MAG,Haas F1 Team,18.0,8.0,,,,,,,,,,Mexican Grand Prix,Mexico,18,2017
+8,GRO,Haas F1 Team,19.0,15.0,,,,,,,,,,Mexican Grand Prix,Mexico,18,2017
+77,BOT,Mercedes,1.0,2.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+5,VET,Ferrari,2.0,1.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+7,RAI,Ferrari,3.0,3.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+33,VER,Red Bull,4.0,5.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+3,RIC,Red Bull,5.0,6.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+11,PER,Force India,6.0,9.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+14,ALO,McLaren,7.0,8.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+27,HUL,Renault,8.0,10.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+55,SAI,Renault,9.0,11.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+19,MAS,Williams,10.0,7.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+31,OCO,Force India,11.0,18.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+8,GRO,Haas F1 Team,12.0,15.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+2,VAN,McLaren,13.0,19.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+20,MAG,Haas F1 Team,14.0,20.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+28,HAR,Toro Rosso,15.0,17.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+94,WEH,Sauber,16.0,14.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+10,GAS,Toro Rosso,17.0,12.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+18,STR,Williams,18.0,16.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+9,ERI,Sauber,19.0,13.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+44,HAM,Mercedes,20.0,4.0,,,,,,,,,,Brazilian Grand Prix,Brazil,19,2017
+77,BOT,Mercedes,1.0,1.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
+44,HAM,Mercedes,2.0,2.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
+5,VET,Ferrari,3.0,3.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
+3,RIC,Red Bull,4.0,20.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
+7,RAI,Ferrari,5.0,4.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
+33,VER,Red Bull,6.0,5.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
+27,HUL,Renault,7.0,6.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
+11,PER,Force India,8.0,7.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
+31,OCO,Force India,9.0,8.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
+19,MAS,Williams,10.0,10.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
+14,ALO,McLaren,11.0,9.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
+55,SAI,Renault,12.0,19.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
+2,VAN,McLaren,13.0,12.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
+20,MAG,Haas F1 Team,14.0,13.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
+18,STR,Williams,15.0,18.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
+8,GRO,Haas F1 Team,16.0,11.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
+10,GAS,Toro Rosso,17.0,16.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
+94,WEH,Sauber,18.0,14.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
+9,ERI,Sauber,19.0,17.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
+28,HAR,Toro Rosso,20.0,15.0,,,,,,,,,,Abu Dhabi Grand Prix,UAE,20,2017
