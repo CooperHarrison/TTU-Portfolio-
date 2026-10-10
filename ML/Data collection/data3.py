@@ -1,3 +1,11 @@
+# NBA team-game data collector:
+# - Fetches game logs for every NBA team with nba_api, keeps seasons from 2020
+#   onward, removes duplicate team/game rows, and writes
+#   nba_team_games_last_5_years.csv in the current working directory.
+# - Requires internet access and pauses between team requests to reduce rate limits.
+# - Run from the repository root with: py "ML/Data collection/data3.py"
+# - Requires: py -m pip install nba_api pandas
+
 import pandas as pd
 import time
 from nba_api.stats.endpoints import leaguegamefinder

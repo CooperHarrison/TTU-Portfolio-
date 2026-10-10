@@ -1,4 +1,12 @@
-#This will not run on a virtual environment like here on github, but this is the code. It would need to be run locally.
+# Webcam object detection and tracking:
+# - Runs YOLOv8 object detection on the live webcam feed and uses Deep SORT to
+#   keep IDs attached to detected objects across frames.
+# - Draws a colored box, object label, and track ID for each confirmed object.
+# - Run locally with a webcam using: py Vision/Vision.py
+# - Press Q in the video window to quit. YOLO weights may download on first run;
+#   detection is configured to use the CPU.
+# - Requires: py -m pip install opencv-python ultralytics deep-sort-realtime
+
 import cv2
 from ultralytics import YOLO
 from deep_sort_realtime.deepsort_tracker import DeepSort

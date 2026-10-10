@@ -1,3 +1,10 @@
+# Formula 1 race-position model (Random Forest):
+# - Reads ML/F1 data/final_dataset.csv, one-hot encodes the race features, and
+#   trains a RandomForestRegressor to estimate a driver's finishing position.
+# - Prints a sample prediction and evaluation metrics for a held-out test set.
+# - Run from the repository root with: py ML/Models/forest.py
+# - Requires: py -m pip install pandas scikit-learn seaborn
+
 import pandas as pd
 import seaborn as sns
 from sklearn.model_selection import train_test_split

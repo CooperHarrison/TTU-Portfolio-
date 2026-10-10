@@ -1,3 +1,20 @@
+"""Real-time guitar amp simulator.
+
+Routes live audio input through five nonlinear preamp stages, a bass/mid/treble
+tone stack, and cabinet impulse-response convolution, then plays the result.
+Run locally with numpy, soundfile, sounddevice, scipy, an audio input/output
+device, and the IR WAV file. Update the IR path and device indices below for
+your computer; stop playback with Ctrl+C.
+
+Replace "insert your file path here" with the full path to your cabinet
+impulse-response WAV file. This IR is used to model the cabinet sound.
+
+Compared with Amp-Jarvis.py, this version does not smooth the first output
+sample at each audio-block boundary. Both use a similar preamp and tone stack;
+their local IR paths and selected audio-device indices also differ.
+Install dependencies with: py -m pip install numpy soundfile sounddevice scipy
+"""
+
 import numpy as np
 import soundfile as sf
 import sounddevice as sd
@@ -9,7 +26,7 @@ sr = 44100
 blocksize = 128
 
 
-ir, _ = sf.read(r"C:\Users\pokem\Desktop\Coding\Amp sim\IR1.wav")
+ir, _ = sf.read("insert your file path here")
 if ir.ndim > 1:
     ir = ir[:, 0]
 

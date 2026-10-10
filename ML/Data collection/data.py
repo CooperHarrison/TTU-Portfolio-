@@ -1,3 +1,11 @@
+# Formula 1 results data collector:
+# - Uses FastF1 to download qualifying and race results for the year set in YEAR,
+#   joins each driver's qualifying and race positions, and adds circuit/year.
+# - Saves the combined table as F1_<YEAR>_DRIVER_RESULTS.csv in the current
+#   working directory. Requires internet access; FastF1 caches downloads in ML/cache.
+# - Run from the repository root with: py "ML/Data collection/data.py"
+# - Requires: py -m pip install fastf1 pandas
+
 import fastf1
 import pandas as pd
 

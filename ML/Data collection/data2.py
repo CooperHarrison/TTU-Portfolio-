@@ -1,4 +1,13 @@
+# Formula 1 full-feature data collector:
+# - Uses FastF1 to gather qualifying and race results for the year set in YEAR,
+#   plus practice best laps, long-run pace, and available weather measurements.
+# - Saves F1_<YEAR>_FULL_FEATURES.csv in the current working directory. Requires
+#   internet access; FastF1 caches downloads in ML/cache.
+# - Run from the repository root with: py "ML/Data collection/data2.py"
+# - Requires: py -m pip install fastf1 pandas numpy
+
 import fastf1
+
 import pandas as pd
 import numpy as np
 import traceback

@@ -1,3 +1,10 @@
+# Formula 1 race-position model (CatBoost):
+# - Reads ML/F1 data/final_dataset2.csv and trains a regressor using qualifying,
+#   practice, weather, circuit, and other race features.
+# - Prints a sample prediction and evaluation metrics for the held-out test set.
+# - Run from the repository root with: py ML/Models/Cboost.py
+# - Requires: py -m pip install pandas scikit-learn catboost
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from catboost import CatBoostRegressor
@@ -59,6 +66,4 @@ print("Predicted RacePosition:", predicted_position)
 print("MSE:", mean_squared_error(y_test, y_pred))
 print("MAE:", mean_absolute_error(y_test, y_pred))
 print("R2:", r2_score(y_test, y_pred))
-
-
 

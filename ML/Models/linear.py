@@ -1,3 +1,11 @@
+# Linear regression example:
+# - Loads x/y values from ML/Data collection/data2.csv, fits a straight-line
+#   model, predicts y for x=4.5, and reports the test-set R-squared score.
+# - Saves a scatter plot and fitted regression line to
+#   linear_regression_plot.png, then displays the plot.
+# - Run from the repository root with: py ML/Models/linear.py
+# - Requires: py -m pip install pandas matplotlib scikit-learn
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split

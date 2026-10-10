@@ -1,3 +1,10 @@
+# NBA game-outcome model:
+# - Reads ML/Basketball data/nba_data.csv, builds pre-game team and opponent
+#   form features, and trains a CatBoost classifier to predict wins.
+# - Prints test accuracy and an estimated Spurs-versus-Knicks win probability.
+# - Run from the repository root with: py ML/Models/Cboost2.py
+# - Requires: py -m pip install pandas catboost scikit-learn
+
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from catboost import CatBoostClassifier

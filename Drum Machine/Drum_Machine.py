@@ -1,13 +1,15 @@
-import os
-import sys
-import wave
+# Drum machine usage:
+# - Generates a repeating, 16-step drum loop with synthesized kick, snare, and hi-hat sounds.
+# - Install dependencies from a terminal with: py -m pip install numpy sounddevice
+# - This will have to be run locally, as the online environment does not support audio output or keyboard input.
+# - Edit kick_pattern, snare_pattern, and hihat_pattern below to change the rhythm:
+#   each 1 plays that drum on a step; each 0 leaves the step silent.
+# - Change the bpm argument in the sequencer call near the bottom to adjust tempo.
+# - Make sure an audio output device is available; press Ctrl+C in the terminal to stop.
 
 import numpy as np
-
-try:
-    import sounddevice as sd
-except OSError:
-    sd = None
+import sounddevice as sd
+import time 
 
 SAMPLE_RATE = 44100
 
@@ -65,7 +67,7 @@ def hi_hat(duration=0.05):
         metal += np.sign(np.sin(2 * np.pi * f * t))
     metal /= len(freqs)
 
-    mix = .4*(0.6 * noise_hp + 0.4 * metal)
+    mix = .3*(0.6 * noise_hp + 0.4 * metal)
 
     env = np.exp(-100 * t)
     hat = mix * env
@@ -79,34 +81,6 @@ def hi_hat(duration=0.05):
 
 
 
-def has_audio_device():
-    if sd is None:
-        return False
-    try:
-        devices = sd.query_devices()
-        return bool(devices)
-    except Exception:
-        return False
-
-
-def save_wav(audio, filename='drum_loop.wav'):
-    audio = np.asarray(audio, dtype=np.float32)
-    if audio.ndim == 2:
-        audio = audio[:, 0]
-
-
-    pcm = np.clip(audio, -1.0, 1.0)
-    pcm = (pcm * 32767).astype(np.int16)
-
-    with wave.open(filename, 'wb') as wav_file:
-        wav_file.setnchannels(1)
-        wav_file.setsampwidth(2)
-        wav_file.setframerate(SAMPLE_RATE)
-        wav_file.writeframes(pcm.tobytes())
-
-    print(f"Audio saved to {os.path.abspath(filename)}")
-
-
 def loop_audio(buffer):
     idx = 0
     length = len(buffer)
@@ -114,14 +88,13 @@ def loop_audio(buffer):
     def callback(outdata, frames, time, status):
         nonlocal idx
         for i in range(frames):
-            outdata[i, 0] = buffer[idx]
-            idx = (idx + 1) % length
+            outdata[i] = buffer[idx]
+            idx = (idx + 1) % length  
 
     return sd.OutputStream(
         samplerate=SAMPLE_RATE,
         channels=1,
-        callback=callback,
-        dtype='float32'
+        callback=callback
     )
 
 
@@ -156,27 +129,10 @@ def sequencer(kick_pattern, snare_pattern, hihat_pattern, bpm=120):
     return output[:loop_length]
 
 
+    
+beat = sequencer(kick_pattern, snare_pattern, hihat_pattern, bpm=87)
+stream = loop_audio(beat)
+stream.start()
 
-def main():
-    beat = sequencer(kick_pattern, snare_pattern, hihat_pattern, bpm=87)
-
-    if not has_audio_device():
-        print("No audio output device detected. Saving beat to a WAV file instead.")
-        save_wav(beat, 'drum_loop.wav')
-        return
-
-    stream = loop_audio(beat)
-    stream.start()
-    try:
-        while True:
-            sd.sleep(100)
-    except KeyboardInterrupt:
-        pass
-    finally:
-        stream.stop()
-        stream.close()
-
-
-if __name__ == '__main__':
-    main()
-
+while True:
+    pass  

@@ -1,4 +1,12 @@
-
+# Stock movement experiment:
+# - Downloads recent daily OHLCV data for up to 40 S&P 500 stocks, builds rolling
+#   features, trains an LSTM, and predicts the next-day movement for the latest
+#   available date.
+# - Writes the 20 highest predicted movers and their estimated prices to
+#   top20_next_day_with_prices.csv.
+# - Run with: py "ML/Stock/stocks.py"
+# - Requires internet access and: py -m pip install numpy pandas requests yfinance torch lxml
+# - This is an experimental model, not financial advice.
 
 import time
 import logging

@@ -1,8 +1,17 @@
-#This doesn't work in a virtual enviroment like here on github, It would need to be run locally, but this is the code.
-
-import sys
+# Synth usage:
+# - Install required audio and keyboard packages:
+#   py -m pip install numpy sounddevice keyboard
+# - For optional MIDI input, also install:
+#   py -m pip install mido python-rtmidi
+# - Run this script locally with an available stereo audio output device.
+# - Hold A W S E D F T G Y H U J K to play notes; - / = shifts the octave down/up, from C2 to C7.
+# - Press 1-4 to select sine, square, saw, or triangle waveform.
+# - Z/X changes attack, C/V decay, B/N sustain, M and , for release, and [ and ] keys for filter cutoff.
+# - Press Ctrl+C to stop the synth.
+# - This will have to be run locally, as the online environment does not support audio output or keyboard input.
 import time
 import threading
+from contextlib import nullcontext
 
 import numpy as np
 
@@ -54,30 +63,36 @@ new_note_flag = {}
 current_waveform = "sine"
 
 midi_name = "Roland Digital Piano 0"
-
-if sd is not None:
-    try:
-        if sys.platform.startswith("win"):
-            sd.default.device = 18
-            sd.default.extra_settings = sd.WasapiSettings(exclusive=True)
-    except Exception:
-        pass
+keyboard_note_keys = {
+    "a": 60, "w": 61, "s": 62, "e": 63, "d": 64,
+    "f": 65, "t": 66, "g": 67, "y": 68, "h": 69,
+    "u": 70, "j": 71, "k": 72,
+}
+keyboard_held_keys = set()
+keyboard_held_notes = set()
+midi_held_notes = set()
+keyboard_key_notes = {}
+keyboard_octave = 4
+octave_control_keys_held = set()
 
 
 def find_output_device():
     if sd is None:
         return None
-    try:
-        devices = sd.query_devices()
-        if not devices:
-            return None
-        for index, device in enumerate(devices):
-            name = str(device.get("name", "")).lower()
-            if any(token in name for token in ["default", "speaker", "output", "headphones"]):
-                return index
+    devices = sd.query_devices()
+    if not devices:
         return None
-    except Exception:
-        return None
+
+    default_output = sd.default.device[1]
+    if default_output is not None and default_output >= 0:
+        device = sd.query_devices(default_output)
+        if device["max_output_channels"] >= 2:
+            return int(default_output)
+
+    for index, device in enumerate(devices):
+        if device["max_output_channels"] >= 2:
+            return index
+    return None
 
 
 def find_midi_input(target_name=None):
@@ -97,6 +112,26 @@ def find_midi_input(target_name=None):
                 return port_name
 
     return ports[0]
+
+
+def start_note(note, source_notes):
+    with notes_lock:
+        source_notes.add(note)
+        active_notes.add(note)
+        note_env[note] = 0.0
+        note_phases[note] = 0.0
+        new_note_flag[note] = True
+        note_state[note] = "attack"
+        note_filter[note] = (0.0, 0.0)
+
+
+def stop_note(note, source_notes, other_source_notes):
+    with notes_lock:
+        source_notes.discard(note)
+        if note not in other_source_notes:
+            active_notes.discard(note)
+            if note in note_state:
+                note_state[note] = "release"
 
 
 def poly_blep(t, dt):
@@ -286,37 +321,39 @@ stream = sd.OutputStream(
 )
 
 stream.start()
-print("MIDI synth running... Press Ctrl+C to stop.")
-print("Q = sine, W = square, E = saw, R = triangle")
+print("Synth running... Press Ctrl+C to stop.")
+if keyboard is not None:
+    print("Keyboard notes: A W S E D F T G Y H U J K (one octave at a time)")
+    print("- / = shifts the keyboard octave (starting at C2 through C7)")
+    print("Waveform: 1 = sine, 2 = square, 3 = saw, 4 = triangle")
+    print("Z/X attack, C/V decay, B/N sustain, M/, release; [ / ] = filter cutoff")
+else:
+    print("Computer-keyboard input is unavailable. Install the 'keyboard' package to enable it.")
 
 midi_port_name = find_midi_input(midi_name)
 if mido is None:
-    print("mido is not installed. MIDI input is unavailable.")
+    print("mido is not installed. MIDI input is unavailable; continuing without MIDI.")
+elif midi_port_name is None:
+    print("No MIDI input device found. Continuing with computer-keyboard input.")
+
+if keyboard is None and midi_port_name is None:
+    print("No computer keyboard or MIDI input is available. Install 'keyboard' or connect a MIDI device.")
     stream.stop()
     stream.close()
     raise SystemExit(1)
 
-if midi_port_name is None:
-    print(f"No MIDI device matched '{midi_name}'. Waiting for a MIDI input port to appear...")
-    midi_port_name = find_midi_input()
-
-if midi_port_name is None:
-    print("No MIDI input devices found. Exiting.")
-    stream.stop()
-    stream.close()
-    raise SystemExit(0)
-
 try:
-    with mido.open_input(midi_port_name) as port:
+    port_context = mido.open_input(midi_port_name) if midi_port_name is not None else nullcontext()
+    with port_context as port:
         while True:
             if keyboard is not None and hasattr(keyboard, 'is_pressed'):
-                if keyboard.is_pressed('q'):
+                if keyboard.is_pressed('1'):
                     current_waveform = "sine"
-                elif keyboard.is_pressed('w'):
+                elif keyboard.is_pressed('2'):
                     current_waveform = "square"
-                elif keyboard.is_pressed('e'):
+                elif keyboard.is_pressed('3'):
                     current_waveform = "saw"
-                elif keyboard.is_pressed('r'):
+                elif keyboard.is_pressed('4'):
                     current_waveform = "triangle"
 
                 if keyboard.is_pressed('z'):
@@ -339,10 +376,31 @@ try:
                 if keyboard.is_pressed(','):
                     env_release = min(1.0, env_release + 0.001)
 
-                if keyboard.is_pressed('u'):
+                if keyboard.is_pressed(']'):
                     cutoff = min(20000.0, cutoff + 10)
-                if keyboard.is_pressed('j'):
+                if keyboard.is_pressed('['):
                     cutoff = max(50.0, cutoff - 10)
+
+                for key, octave_delta in (("-", -1), ("=", 1)):
+                    pressed = keyboard.is_pressed(key)
+                    if pressed and key not in octave_control_keys_held:
+                        octave_control_keys_held.add(key)
+                        keyboard_octave = max(2, min(7, keyboard_octave + octave_delta))
+                        print(f"Keyboard octave: C{keyboard_octave}")
+                    elif not pressed:
+                        octave_control_keys_held.discard(key)
+
+                for key, note in keyboard_note_keys.items():
+                    pressed = keyboard.is_pressed(key)
+                    if pressed and key not in keyboard_held_keys:
+                        keyboard_held_keys.add(key)
+                        note += 12 * (keyboard_octave - 4)
+                        keyboard_key_notes[key] = note
+                        start_note(note, keyboard_held_notes)
+                    elif not pressed and key in keyboard_held_keys:
+                        keyboard_held_keys.remove(key)
+                        note = keyboard_key_notes.pop(key)
+                        stop_note(note, keyboard_held_notes, midi_held_notes)
 
                 a = 1.0 - np.exp(-2.0 * np.pi * cutoff / fs)
 
@@ -350,20 +408,12 @@ try:
             decay_inc = (1.0 - env_sustain) / (env_decay * fs)
             release_inc = 1.0 / (env_release * fs)
 
-            for msg in port.iter_pending():
-                with notes_lock:
+            if port is not None:
+                for msg in port.iter_pending():
                     if msg.type == "note_on" and msg.velocity > 0:
-                        active_notes.add(msg.note)
-                        note_env[msg.note] = 0.0
-                        note_phases[msg.note] = 0.0
-                        new_note_flag[msg.note] = True
-                        note_state[msg.note] = "attack"
-                        note_filter[msg.note] = (0.0, 0.0)
-
+                        start_note(msg.note, midi_held_notes)
                     elif msg.type == "note_off" or (msg.type == "note_on" and msg.velocity == 0):
-                        active_notes.discard(msg.note)
-                        if msg.note in note_state:
-                            note_state[msg.note] = "release"
+                        stop_note(msg.note, midi_held_notes, keyboard_held_notes)
 
             time.sleep(0.002)
 except KeyboardInterrupt:
